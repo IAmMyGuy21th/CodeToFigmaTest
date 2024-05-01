@@ -1,0 +1,29 @@
+.carousel {
+  	position: relative;
+  	width: 776px;
+  	height: 116px;
+}
+.desktop-1-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 120px;
+  	border-radius: 140px;
+  	width: 1200px;
+  	height: 1024px;
+}
+.desktop-1-item {
+  	position: absolute;
+  	top: 174px;
+  	left: 382px;
+  	border-radius: 38px;
+  	width: 677px;
+  	height: 677px;
+}
+.desktop-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 1024px;
+  	overflow: hidden;
+}
+
